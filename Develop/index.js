@@ -14,9 +14,9 @@ const questions = [
     { type: 'input', name: 'tests', message: 'How can users run tests?' },
     { type: 'input', name: 'github', message: 'Enter your GitHub username:' },
     { type: 'input', name: 'email', message: 'Enter your email address:' }
-  ];
+];
 
-// TODO: Create a function to write README file
+// Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) => {
         if (err) {
