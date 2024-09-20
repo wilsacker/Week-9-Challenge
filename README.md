@@ -21,6 +21,8 @@ To install the project, clone the repository, navigate to the project directory,
 ## Usage
 To use the README generator, run the following command in the terminal: `node index.js` You will be prompted to provide project details such as the title, description, installation steps, usage instructions, license, and more. Once all the prompts are answered, a README.md file will be generated in the current directory based on your input.
 
+[Walkthrough Video](https://drive.google.com/file/d/1xgba-ZZbsOmcYEaov92WjSvkFzw9wRtJ/view?usp=sharing)
+
 ## License
 
 This project is licensed under the MIT license.
